@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sharmika 👋
 
-<!--
-**sharmi911/sharmi911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy exploring new technologies, solving real-world problems through code, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills:** Python, Machine Learning, Data Analytics, HTML, PHP, C Programming
+
+🚀 **Currently Working On:** AI and Data Science projects, web development, and expanding my knowledge in emerging technologies.
+
+🌱 **Currently Learning:** Advanced Machine Learning concepts, data-driven solutions, and software development practices.
+
+🤝 **Open To:** Collaborations, internships, hackathons, and opportunities to learn and grow as a developer.
+
+📫 **Reach Me:** [sharmikagangadharan@gmail.com](mailto:sharmikagangadharan007@gmail.com)
+
+*"Turning ideas into intelligent solutions through technology."*
