@@ -12,6 +12,6 @@ I am passionate about Artificial Intelligence, Machine Learning, and Data Analyt
 
 🤝 **Open To:** Collaborations, internships, hackathons, and opportunities to learn and grow as a developer.
 
-📫 **Reach Me:** [sharmikagangadharan@gmail.com](mailto:sharmikagangadharan007@gmail.com)
+📫 **Reach Me:** [sharmikagangadharan007@gmail.com](mailto:sharmikagangadharan007@gmail.com)
 
 *"Turning ideas into intelligent solutions through technology."*
