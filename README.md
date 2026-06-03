@@ -140,16 +140,6 @@ A **computer vision pipeline** that detects potholes and road hazards from live 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharmi911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi911&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
