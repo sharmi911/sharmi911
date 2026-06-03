@@ -1,15 +1,19 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6b21a8,100:db2777&height=200&section=header&text=Sharmika%20Gangadharan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sharmika%20Gangadharan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20·%20Developer%20Intern&descAlignY=55&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmika-gangadharan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmi911)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmikagangadharan@gmail.com)
-[![Location](https://img.shields.io/badge/Salem%2C_Tamil_Nadu-%23db2777?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
-![Aggregate](https://img.shields.io/badge/Aggregate-83%25-a855f7?style=for-the-badge&logo=academia&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-51%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=db2777&center=true&vCenter=true&width=650&lines=B.Sc.+CS+(AI+%26+Data+Science)+%40+Sona+College+%F0%9F%8E%93;Python+%7C+ML+%7C+Computer+Vision+%7C+IoT+%F0%9F%A4%96;Building+AI+solutions+for+real-world+problems+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+---
+
+<div align="center">
+
+### 🌟 *"Turning data into decisions, and ideas into impact"*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharmika--gangadharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmika-gangadharan)
+[![GitHub](https://img.shields.io/badge/GitHub-sharmi911-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmi911)
+[![Email](https://img.shields.io/badge/Gmail-sharmikagangadharan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmikagangadharan@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-51%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 
 </div>
 
@@ -19,48 +23,16 @@
 
 ```python
 class Sharmika:
-    def __init__(self):
-        self.name       = "Sharmika Gangadharan"
-        self.role       = "AI & Data Science Student | Developer Intern"
-        self.college    = "Sona College of Arts & Science, Salem"
-        self.university = "Periyar University"
-        self.aggregate  = "83%"
-        self.location   = "Salem, Tamil Nadu 🇮🇳"
-        self.focus      = ["Machine Learning", "Computer Vision", "Data Analytics", "IoT", "Python"]
-        self.leetcode   = "51+ Problems Solved (Easy · Medium · Hard)"
+    name       = "Sharmika Gangadharan"
+    location   = "Salem, Tamil Nadu 🇮🇳"
+    degree     = "B.Sc. Computer Science (AI & Data Science)"
+    university = "Sona College of Arts & Science · Periyar University"
+    aggregate  = "83% | Expected Pass-out: 2027"
 
-    def say_hi(self):
-        print("Hey! I turn data into decisions and ideas into intelligent systems.")
-
-me = Sharmika()
-me.say_hi()
+    interests  = ["Machine Learning", "Computer Vision", "Data Analytics", "IoT"]
+    currently  = "Building real-world AI solutions & sharpening DSA skills"
+    fun_fact   = "I detect potholes AND solve LeetCode problems — both one at a time 🚧"
 ```
-
-> 🌟 Motivated problem-solver building hands-on expertise in Python, ML, and Data Analytics. From air quality monitoring to AI-powered road safety — I engineer solutions that create real impact.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🔬 AI / Data Domains
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-E97627?style=flat-square&logo=tableau&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0082FC?style=flat-square&logo=raspberrypi&logoColor=white)
-
-</div>
 
 ---
 
@@ -68,15 +40,26 @@ me.say_hi()
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🏢 Valaidhalam Technologies</h3>
-      <b>Developer Intern</b> &nbsp;|&nbsp; <code>2026 · 6 Months</code><br/><br/>
-      Developed and tested software components in a real-time dev environment. Debugged, implemented, and enhanced application functionality in collaboration with the engineering team. Contributed to end-to-end project delivery lifecycle.
+    <td>🏢 <b>Valaidhalam Technologies</b></td>
+    <td>Developer Intern · 6 Months · 2026</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      → Developed & tested software components in a real-time environment<br>
+      → Debugged & enhanced application functionality with the engineering team<br>
+      → Contributed to quality improvement & end-to-end project delivery
     </td>
-    <td width="50%">
-      <h3>🔷 Infosys Springboard 6.0</h3>
-      <b>Python Domain Intern</b> &nbsp;|&nbsp; <code>2025 · 3 Months</code><br/><br/>
-      Practiced Python through real-world learning modules and hands-on mini-projects. Strengthened programming fundamentals and logic building. Earned <b>Python Foundation Certification</b> upon completion.
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td>🏢 <b>Infosys Springboard 6.0</b></td>
+    <td>Python Domain Intern · 3 Months · 2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      → Practised Python through real-world modules & hands-on mini-projects<br>
+      → Strengthened programming fundamentals, logic building & problem-solving<br>
+      → 🏅 Earned <b>Python Foundation Certification</b> from Infosys Springboard
     </td>
   </tr>
 </table>
@@ -85,94 +68,93 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌫️ AirAware — Air Quality Monitoring</h3>
-      <p>Analyzed real-world pollution datasets to monitor air quality levels continuously. Applied <b>ML models</b> for environmental tracking and decision support — enabling proactive responses to pollution spikes.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow" />
-      <img src="https://img.shields.io/badge/IoT-0082FC?style=flat-square&logo=raspberrypi" />
-      <img src="https://img.shields.io/badge/Data_Analytics-150458?style=flat-square&logo=pandas" />
-    </td>
-    <td width="50%">
-      <h3>🚗 RoadEye — AI Road Safety System</h3>
-      <p>Built a <b>computer vision pipeline</b> to detect potholes and road hazards from live video streams. Generated automated alerts for infrastructure authorities to enable timely maintenance and improve road safety.</p>
-      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow" />
-    </td>
-  </tr>
-</table>
+### 🌫️ AirAware — Air Quality Monitoring System
+> *Real-time pollution tracking powered by ML*
+
+- 📊 Analyzed real-world pollution datasets for continuous air quality monitoring
+- 🤖 Applied Machine Learning models for environmental tracking & decision support
+- ⚡ Enabled proactive responses to pollution spikes
+
+`Python` `Machine Learning` `IoT` `Data Analytics`
 
 ---
 
-## 📜 Certifications
+### 🛣️ RoadEye — AI-Powered Road Safety System
+> *Computer vision that keeps roads safer*
 
-| 🏅 Certification | 🏛️ Issuer | 📅 Year |
+- 👁️ Built a CV pipeline to detect potholes & road hazards from live video streams
+- 🚨 Generated automated alerts for infrastructure authorities
+- 🛠️ Improved road safety through timely, data-driven maintenance triggers
+
+`Python` `Computer Vision` `Machine Learning` `Data Analytics`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+| 🥇 Certification | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| 🐍 Python Foundation | Infosys Springboard | 2025 |
-| 📊 Data Analytics with Power BI | Infosys Springboard | 2026 |
-| 🌐 Full Stack Front-End Development | TNSDC | — |
-| 💼 TCS iON Career Edge – Young Professional | TCS | — |
+| Python Foundation | Infosys Springboard | 2025 |
+| Data Analytics & Power BI | Infosys | 2026 |
+| Full Stack Front-End Development | TNSDC | — |
+| Career Edge — Young Professional | TCS iON | — |
+
+### 🌟 Highlights
+- ⚔️ **51+ LeetCode Problems** solved (Easy · Medium · Hard)
+- 🛠️ **Hackathon Participant** — Theeruvthon 2025
+- 📣 **Class Representative** — Sona College of Arts & Science
+- 🤝 **NSS Unit Coordinator** — Active social service contributor
+- 🏭 **Industrial Visit** — SAIL Steel Plant
 
 ---
 
-## 🏆 Achievements & Activities
-
-```
-🧩  51+ LeetCode Problems Solved    →  Easy · Medium · Hard
-⚡  Hackathon Participant            →  Theeruvthon 2025
-🏭  Industrial Visit                →  SAIL Steel Plant
-🤝  NSS Unit Coordinator            →  College Social Service
-📚  Class Representative            →  Sona College
-```
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmi911&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi911&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharmi911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi911&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi911&theme=redical&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sharmi911&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🎯 Strengths
+## 🌐 Languages
 
-<div align="center">
-
-`🧩 Problem Solving` &nbsp; `📊 Analytical Thinking` &nbsp; `⚡ Quick Learning`
-
-`🔄 Adaptability` &nbsp; `🤝 Team Collaboration` &nbsp; `💬 Communication Skills`
-
-**Languages:** English 🇬🇧 &nbsp;|&nbsp; Tamil 🇮🇳
-
-</div>
+🗣️ **English** — Proficient &nbsp;&nbsp;|&nbsp;&nbsp; 🗣️ **Tamil** — Native
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
-Got an exciting project, internship, or just want to talk AI & Data Science?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmika-gangadharan)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmikagangadharan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Find_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-
----
-
-*"Data is the new oil — I'm here to refine it."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sharmi911&color=db2777&style=flat-square&label=Profile+Views)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:6b21a8,100:1a0533&height=120&section=footer)
+⭐ *If you like what I build, consider starring my repos!*
+📬 *Always open to collaborations, internships & learning opportunities*
 
 </div>
