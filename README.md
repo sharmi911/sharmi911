@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-░██████╗██╗░░██╗░█████╗░██████╗░███╗░░░███╗██╗██╗░░██╗░█████╗░
-██╔════╝██║░░██║██╔══██╗██╔══██╗████╗░████║██║██║░██╔╝██╔══██╗
-╚█████╗░███████║███████║██████╔╝██╔████╔██║██║█████═╝░███████║
-░╚═══██╗██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██║██╔═██╗░██╔══██║
-██████╔╝██║░░██║██║░░██║██║░░██║██║░╚═╝░██║██║██║░╚██╗██║░░██║
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░╚═╝╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
-```
+# 👩‍💻 Sharmika Gangadharan
 
 ### `AI & Data Science Student` · `Developer Intern` · `Problem Solver`
 
@@ -93,21 +86,21 @@ A **computer vision pipeline** that detects potholes and road hazards from live 
 
 ## 💼 Experience
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏢  Valaidhalam Technologies          2026 · 6 Months      │
-│      Developer Intern                                        │
-│      ▸ Built & tested real-time software components         │
-│      ▸ Debugged & enhanced application functionality        │
-│      ▸ Contributed to end-to-end project delivery           │
-├─────────────────────────────────────────────────────────────┤
-│  🏢  Infosys Springboard 6.0           2025 · 3 Months      │
-│      Python Domain Intern                                    │
-│      ▸ Completed hands-on Python learning modules           │
-│      ▸ Built logic & problem-solving through mini-projects  │
-│      ▸ Earned Python Foundation Certification               │
-└─────────────────────────────────────────────────────────────┘
-```
+**🏢 Valaidhalam Technologies** &nbsp;&nbsp;&nbsp; `2026` · `6 Months`
+
+*Developer Intern*
+- ▸ Built & tested real-time software components
+- ▸ Debugged & enhanced application functionality
+- ▸ Contributed to end-to-end project delivery
+
+---
+
+**🏢 Infosys Springboard 6.0** &nbsp;&nbsp;&nbsp; `2025` · `3 Months`
+
+*Python Domain Intern*
+- ▸ Completed hands-on Python learning modules
+- ▸ Built logic & problem-solving through mini-projects
+- ▸ Earned Python Foundation Certification
 
 ---
 
@@ -125,9 +118,9 @@ A **computer vision pipeline** that detects potholes and road hazards from live 
 | Badge | Certification | Issuer | Year |
 |---|---|---|---|
 | 🐍 | Python Foundation | Infosys Springboard | 2025 |
-| 📊 | Data Analytics with Power BI | Infosys Springboard | 2026 |
-| 🌐 | Full Stack Front-End Development | TNSDC | — |
-| 💼 | Career Edge — Young Professional | TCS iON | — |
+| 📊 | Data Analytics with Power BI | Infosys Springboard | 2025 |
+| 🌐 | Full Stack Front-End Development | TNSDC | 2025 |
+| 💼 | Career Edge — Young Professional | TCS iON | 2025 |
 
 ---
 
@@ -152,8 +145,9 @@ A **computer vision pipeline** that detects potholes and road hazards from live 
 
 <div align="center">
 
-![Sharmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmi911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi911&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sharmi911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi911&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
