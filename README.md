@@ -130,7 +130,6 @@ A **computer vision pipeline** that detects potholes and road hazards from live 
 
 | 🏅 Achievement | 📌 Detail |
 |---|---|
-| 💻 LeetCode Warrior | **51+ problems** solved (Easy · Medium · Hard) |
 | 🚀 Hackathon Participant | **Theeruvthon 2025** |
 | 🌿 NSS Coordinator | National Service Scheme unit contributor |
 | 🎓 Class Representative | Academic year leadership role |
